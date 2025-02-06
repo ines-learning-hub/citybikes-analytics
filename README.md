@@ -1,5 +1,5 @@
 # **Citybikes analytics**
-Esta tarefa consiste en facer unha analítica dos datos sobre BiciCorunña obtidos da API de [citybik.es](https://citybik.es/) despois de face peticións durante un mes.
+Esta tarefa consiste en facer unha analítica dos datos sobre BiciCorunña obtidos da API de [citybik.es](https://citybik.es/) despois de facer peticións durante un mes.
 
 ## Execución
 1. Clonar repositorio
